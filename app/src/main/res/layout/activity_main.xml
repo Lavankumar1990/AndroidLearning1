@@ -24,8 +24,15 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="30dp"
-        android:text="Hello World New 2"
+        android:text="Hello World New2"
      />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="master change"
+        />
 
 </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
