@@ -7,5 +7,5 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20dp"
-        android:text="List Item"/>
+        android:text="List Item 1"/>
 </LinearLayout>
